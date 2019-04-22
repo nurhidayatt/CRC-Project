@@ -5,7 +5,7 @@ int main() {
     string msg,crc,encoded="",send;
     cout<<"Pesan M = ";
     getline(cin,msg);
-    cout<<"Pola P = ";
+    cout<<"Polinominal P = ";
     getline(cin,crc);
     
     int m = msg.length(),n = crc.length();
