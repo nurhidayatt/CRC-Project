@@ -1,2 +1,2 @@
 # CRC-Project
-Tugas Telematika
+Implementasi CRC menggunakan bahasa C++
